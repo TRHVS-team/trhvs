@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bóka ráðgjöf | Tölfræðiráðgjöf Heilbrigðisvísindasviðs</title>
+    <link>/appointment/</link>
+      <atom:link href="/appointment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bóka ráðgjöf</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bóka ráðgjöf</title>
+      <link>/appointment/</link>
+    </image>
+    
+  </channel>
+</rss>
