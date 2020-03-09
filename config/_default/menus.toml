@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Færslur"
-  url = "posts/"
+  url = "post/"
   weight = 20
 
 [[main]]
