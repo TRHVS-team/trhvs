@@ -3,7 +3,7 @@ header:
   caption: ""
   image: ""
 view: 3
-
+title: Bókun staðfest
 ---
 
 <style>
@@ -16,4 +16,5 @@ knitr::opts_chunk$set(echo = FALSE, out.width = "90%")
 ```
 
 
-Takk fyrir að bóka hjá okkur!
+## Takk fyrir að bóka hjá okkur!
+
