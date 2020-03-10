@@ -4,12 +4,11 @@ draft: false
 lastmod: "2018-09-09T00:00:00Z"
 linktitle: Línuleg líkön
 menu:
-  example:
-    name: Overview
+  linearmodels:
+    name: Yfirlit
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
-title: Overview
+summary: Helstu tölfræðiaðgerðir byggja á línulegum líkönum
+title: Yfirlit
 toc: true
 type: docs
 weight: 1

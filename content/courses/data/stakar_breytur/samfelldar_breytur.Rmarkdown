@@ -1,0 +1,47 @@
+---
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+linktitle: Samfelldar
+menu:
+  data:
+    parent: Stakar breytur
+    weight: 1
+title: Samfelldar
+toc: true
+type: docs
+weight: 1
+---
+
+```{r, echo = FALSE, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
+                      fig.width = 8, out.width = "100%", fig.asp = 0.621)
+```
+
+## Pakkar
+
+```{r}
+library(tidyverse); library(kableExtra)
+```
+
+## Gögn
+
+```{r}
+d <- as_tibble(mtcars)
+```
+
+```{r}
+d %>% 
+    head %>% 
+    kable(caption = "Gögn um bensíneyðslu bíla") %>% 
+    kable_styling(position = "center")
+```
+
+
+## Myndrit
+
+### Súlurit
+
+```{r}
+ggplot(d, aes(mpg)) +
+    geom_histogram()
+```

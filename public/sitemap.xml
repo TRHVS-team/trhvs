@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/data/example1/</loc>
+    <loc>/courses/linearmodels/normaldreifd_utkoma/normal_likon_einfold/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/linearmodels/example1/</loc>
+    <loc>/courses/data/stakar_breytur/samfelldar_breytur/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/linearmodels/normaldreifd_utkoma/normal_likon/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -23,12 +28,12 @@
   </url>
   
   <url>
-    <loc>/courses/data/example2/</loc>
+    <loc>/courses/linearmodels/normaldreifd_utkoma/normal_likon_fjolvid/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/linearmodels/example2/</loc>
+    <loc>/courses/data/stakar_breytur/strjalar_breytur/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -84,6 +89,21 @@
   
   <url>
     <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/data/fleiri_breytur/samfelld_samfelld/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/data/fleiri_breytur/samfelld_strjal/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/data/fleiri_breytur/strjal_strjal/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
