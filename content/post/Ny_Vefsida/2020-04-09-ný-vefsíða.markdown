@@ -22,3 +22,21 @@ projects: []
 
 
 Velkomin á okkar nýju vefsíðu! Vefsíðan er byggð með `blogdown` pakkanum fyrir R. Leiðbeiningar um notkun pakkanns má [finna hér](https://bookdown.org/yihui/blogdown/)
+
+# R Markdown
+
+
+
+
+
+Hér getum við bloggað og skrifað beint á vefsíðuna í R Markdown.
+
+
+```r
+data(mtcars)
+ggplot(mtcars, aes(hp, mpg)) +
+  geom_point() +
+  geom_smooth()
+```
+
+<img src="/post/Ny_Vefsida/2020-04-09-ný-vefsíða_files/figure-html/unnamed-chunk-2-1.png" width="100%" />

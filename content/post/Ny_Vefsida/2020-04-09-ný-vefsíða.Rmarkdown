@@ -22,3 +22,28 @@ projects: []
 
 
 Velkomin á okkar nýju vefsíðu! Vefsíðan er byggð með `blogdown` pakkanum fyrir R. Leiðbeiningar um notkun pakkanns má [finna hér](https://bookdown.org/yihui/blogdown/)
+
+# R Markdown
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F, fig.asp = 0.621, out.width = "100%", fig.width = 6)
+```
+
+```{r, echo = FALSE}
+library(tidyverse)
+library(cowplot)
+theme_set(theme_classic(base_size = 12) + 
+              background_grid(color.major = "grey90", 
+                              color.minor = "grey95", 
+                              minor = "xy", major = "xy") +
+              theme(legend.position = "none"))
+```
+
+Hér getum við bloggað og skrifað beint á vefsíðuna í R Markdown.
+
+```{r}
+data(mtcars)
+ggplot(mtcars, aes(hp, mpg)) +
+  geom_point() +
+  geom_smooth()
+```

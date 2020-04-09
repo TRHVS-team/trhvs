@@ -19,6 +19,14 @@
       <guid>/post/ny_vefsida/ny-vefsi%C3%B0a/</guid>
       <description>&lt;p&gt;Velkomin á okkar nýju vefsíðu! Vefsíðan er byggð með &lt;code&gt;blogdown&lt;/code&gt; pakkanum fyrir R. Leiðbeiningar um notkun pakkanns má 
 &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;finna hér&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;Hér getum við bloggað og skrifað beint á vefsíðuna í R Markdown.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;data(mtcars)
+ggplot(mtcars, aes(hp, mpg)) +
+  geom_point() +
+  geom_smooth()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Ny_Vefsida/2020-04-09-ný-vefsíða_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;100%&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
