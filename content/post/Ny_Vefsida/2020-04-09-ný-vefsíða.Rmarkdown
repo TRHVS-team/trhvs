@@ -1,0 +1,24 @@
+---
+title: Ný vefsíða!
+author: bgj
+date: '2020-04-09'
+slug: ný-vefsíða
+categories:
+  - Vefsíða
+tags:
+  - Vefsíða
+  - Fréttir
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-04-09T11:33:14Z'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+Velkomin á okkar nýju vefsíðu! Vefsíðan er byggð með `blogdown` pakkanum fyrir R. Leiðbeiningar um notkun pakkanns má [finna hér](https://bookdown.org/yihui/blogdown/)

@@ -5,7 +5,7 @@ bio: Blablabla
 email: ""
 name: Sindri Emmanúel Antonsson
 interests:
-    - Stuff
+    - Mastersnemi í tölfræði
 organizations:
 - name: Heilbrigðisvísindasvið Háskóla Íslands
   url: ""
@@ -18,4 +18,4 @@ user_groups:
 - Tölfræðingar
 ---
 
-Sindri
+Þessi hluti síðunnar er ennþá í vinnslu.

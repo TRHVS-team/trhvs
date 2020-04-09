@@ -5,7 +5,7 @@ bio: Þjónusta fyrir nemendur og starfsfólk Háskóla Íslands.
 email: ""
 name: Brynjólfur Gauti Jónsson
 interests:
-    - Dót
+    - Doktorsnemi í líftölfræði
 organizations:
 - name: Heilbrigðisvísindasvið Háskóla Íslands
   url: ""
@@ -18,4 +18,4 @@ user_groups:
 - Tölfræðingar
 ---
 
-Binni
+Þessi hluti síðunnar er ennþá í vinnslu.

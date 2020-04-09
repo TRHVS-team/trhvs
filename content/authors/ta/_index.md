@@ -5,7 +5,7 @@ bio: Blablúbla
 email: ""
 name: Thor Aspelund
 interests:
-    - Dót
+    - Prófessor við Miðstöð í Lýðheilsuvísindum
 organizations:
 - name: Heilbrigðisvísindasvið Háskóla Íslands
   url: ""
@@ -18,4 +18,4 @@ user_groups:
 - Tölfræðingar
 ---
 
-Thor
+Þessi hluti síðunnar er ennþá í vinnslu.

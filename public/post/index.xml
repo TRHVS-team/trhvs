@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Færslur</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Færslur</title>
@@ -13,11 +13,13 @@
     </image>
     
     <item>
-      <title>Bless PSS: Mikilvægi opins hugbúnaðar í námi og rannsóknum</title>
-      <link>/post/blesspss/bless-pss-mikilv%C3%A6gi-opins-hugbuna%C3%B0a-i-nami-og-rannsoknum/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/post/blesspss/bless-pss-mikilv%C3%A6gi-opins-hugbuna%C3%B0a-i-nami-og-rannsoknum/</guid>
-      <description></description>
+      <title>Ný vefsíða!</title>
+      <link>/post/ny_vefsida/ny-vefsi%C3%B0a/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/ny_vefsida/ny-vefsi%C3%B0a/</guid>
+      <description>&lt;p&gt;Velkomin á okkar nýju vefsíðu! Vefsíðan er byggð með &lt;code&gt;blogdown&lt;/code&gt; pakkanum fyrir R. Leiðbeiningar um notkun pakkanns má 
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;finna hér&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
