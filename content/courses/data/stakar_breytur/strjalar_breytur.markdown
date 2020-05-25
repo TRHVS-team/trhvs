@@ -5,7 +5,7 @@ linktitle: Strjálar
 menu:
   data:
     parent: Stakar breytur
-    weight: 2
+    weight: 1
 title: Strjálar
 toc: true
 type: docs

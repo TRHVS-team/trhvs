@@ -15,20 +15,6 @@ text-align: justify}
 knitr::opts_chunk$set(echo = FALSE, out.width = "90%")
 ```
 
-
-# Fjarfundir vegna COVID-19
-
-```{r}
-blogdown::shortcode("boka_fjarfundur")
-```
-
-Vegna COVID faraldurs eru öll viðtöl okkar á formi fjarfunda. Bókið tíma og við munum senda fundarboð í Microsoft Teams. 
-
-[Hér má sjá teams ráð í boði Upplýsingatækvisviðs](https://uts.hi.is/teams_fjarfundir)
-
-
-
-<!-- 
 # Læknagarður
 
 ```{r}
@@ -47,7 +33,7 @@ blogdown::shortcode("boka_laeknagardur")
 
 ***
 
-# Íslensk Erfðagreining 
+# Íslensk Erfðagreining
 
 ```{r}
 knitr::include_graphics("decode.jpg")
@@ -61,5 +47,3 @@ blogdown::shortcode("boka_decode")
 Hér geta framhaldsnemendur og starfsfólk sem eru nú þegar til húsa í Íslenskri Erfðagreiningu bókað tíma. Ráðgjöfin er almennt séð staðsett hjá Miðstöð í Lýðheilsuvísindum en getur farið fram hvar sem er í byggingunni.
 
 * Mánudagar: 09:00 - 14:00
-
--->

@@ -1,0 +1,25 @@
+---
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+linktitle: Ein skýribreyta
+menu:
+  linearmodels:
+    parent: "1. Normaldreifð útkoma"
+    weight: 1
+title: Ein skýribreyta
+toc: true
+type: docs
+weight: 1
+---
+
+```{r}
+library(broom)
+m <- lm(mpg ~ wt, data = mtcars)
+tidy(m)
+```
+
+```{r}
+library(emmeans)
+emmeans(m, ~ wt, at = list(wt = seq(from = 1, to = 4, length.out = 20)))
+```
+

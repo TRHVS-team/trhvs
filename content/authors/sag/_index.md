@@ -3,9 +3,9 @@ authors:
 - ta
 bio: Blablúbla
 email: ""
-name: Jóhanna Jakobsdóttir
+name: Sigurbjörg Anna Guðnadóttir
 interests:
-    - Rannsóknarsérfræðingur við Miðstöð í Lýðheilsuvísindum
+    - Doktorsnemi í líftölfræði
 organizations:
 - name: Heilbrigðisvísindasvið Háskóla Íslands
   url: ""

@@ -1,0 +1,26 @@
+---
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+linktitle: "Ein skýribreyta "
+menu:
+  linearmodels:
+    parent: Tvíkosta útkoma
+    weight: 2
+title: "Ein skýribreyta "
+toc: true
+type: docs
+weight: 2 * 10 + 1
+---
+
+```{r}
+library(tidyverse)
+library(broom)
+m <- glm(am ~ wt, data = mtcars, family = binomial)
+tidy(m)
+```
+
+```{r}
+library(emmeans)
+emmeans(m, ~ wt, at = list(wt = c(1, 3)), type = "response")
+```
+

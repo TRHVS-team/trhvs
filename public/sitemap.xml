@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/linearmodels/normaldreifd_utkoma/normal_likon_einfold/</loc>
+    <loc>/courses/linearmodels/1_normaldreifd_utkoma/normal_likon_einfold/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/data/stakar_breytur/samfelldar_breytur/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/linearmodels/normaldreifd_utkoma/normal_likon/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -28,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/courses/linearmodels/normaldreifd_utkoma/normal_likon_fjolvid/</loc>
+    <loc>/courses/linearmodels/1_normaldreifd_utkoma/normal_likon_fjolvid/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -80,6 +75,26 @@
   <url>
     <loc>/categories/vefsi%C3%B0a/</loc>
     <lastmod>2020-04-09T11:33:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/linearmodels/2_tvikosta_utkoma/tvikosta_likon_einfold/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/linearmodels/3_talning_utkoma/talning_likon_einfold/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/linearmodels/2_tvikosta_utkoma/tvikosta_likon_fjolvid/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/linearmodels/3_talning_utkoma/talning_likon_fjolvid/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -221,11 +236,7 @@
   </url>
   
   <url>
-    <loc>/authors/jj/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/sea/</loc>
+    <loc>/authors/sag/</loc>
   </url>
   
   <url>

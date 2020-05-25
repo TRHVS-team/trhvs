@@ -1,0 +1,26 @@
+---
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+linktitle: Fleiri skýribreytur
+menu:
+  linearmodels:
+    parent: Normaldreifð útkoma
+    weight: 2
+title: Fleiri skýribreytur
+toc: true
+type: docs
+weight: 2
+---
+
+```{r}
+library(broom)
+m <- lm(mpg ~ wt + hp, data = mtcars)
+tidy(m)
+```
+
+```{r}
+library(emmeans)
+emmeans(m, ~ wt + hp, 
+        at = list(wt = c(2, 3),
+                  hp = c(90, 110)))
+```

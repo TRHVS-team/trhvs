@@ -1,0 +1,27 @@
+---
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+linktitle: "Fleiri skýribreytur  "
+menu:
+  linearmodels:
+    parent: Talningar útkoma
+    weight: 3
+title: "Fleiri skýribreytur  "
+toc: true
+type: docs
+weight: 3 * 10 + 2
+---
+
+```{r}
+library(broom)
+library(faraway)
+m <- glm(Species ~ Elevation + Area, data = gala, family = poisson)
+tidy(m)
+```
+
+```{r}
+library(emmeans)
+emmeans(m, ~ Elevation + Area, at = list(Elevation = c(90, 300),
+                                         Area = c(2, 50)), type = "response")
+```
+
