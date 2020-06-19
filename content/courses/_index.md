@@ -6,4 +6,4 @@ layout: docs
 title: Fræðsluefni
 ---
 
-### Hér munum við birta fræðsluefni. Efnið að neðan er ennþá í tilraunafasa.
+### Hér munum við birta fræðsluefni sem er ætlað öllum til gagns og gaman. Efnið að neðan er ennþá í tilraunafasa.

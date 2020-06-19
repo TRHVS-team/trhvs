@@ -1,0 +1,17 @@
+---
+header:
+  caption: ""
+  image: ""
+view: 3
+
+---
+
+# Lifunargreining (LÝÐ079F)
+
+Lifunargreining er kennd árlega á vorönn. 
+
+* [Hlekkur á glósur](https://bgautijonsson.github.io/SurvivalAnalysis)
+
+# Slembiþáttalíkön (MAS104M)
+
+Slembiþáttalíkön eru kennd árlega á haustönn.
