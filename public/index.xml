@@ -14,9 +14,9 @@
     
     <item>
       <title>Ein skýribreyta</title>
-      <link>/courses/linearmodels/1_normaldreifd_utkoma/normal_likon_einfold/</link>
+      <link>/tolfraedi_fyrir_almenning/linearmodels/1_normaldreifd_utkoma/normal_likon_einfold/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/linearmodels/1_normaldreifd_utkoma/normal_likon_einfold/</guid>
+      <guid>/tolfraedi_fyrir_almenning/linearmodels/1_normaldreifd_utkoma/normal_likon_einfold/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(broom)
 m &amp;lt;- lm(mpg ~ wt, data = mtcars)
 tidy(m)
@@ -59,9 +59,9 @@ emmeans(m, ~ wt, at = list(wt = seq(from = 1, to = 4, length.out = 20)))
     
     <item>
       <title>Samfelldar</title>
-      <link>/courses/data/stakar_breytur/samfelldar_breytur/</link>
+      <link>/tolfraedi_fyrir_almenning/data/stakar_breytur/samfelldar_breytur/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/data/stakar_breytur/samfelldar_breytur/</guid>
+      <guid>/tolfraedi_fyrir_almenning/data/stakar_breytur/samfelldar_breytur/</guid>
       <description>&lt;h2 id=&#34;pakkar&#34;&gt;Pakkar&lt;/h2&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(tidyverse); library(kableExtra)
 &lt;/code&gt;&lt;/pre&gt;
@@ -182,9 +182,9 @@ emmeans(m, ~ wt, at = list(wt = seq(from = 1, to = 4, length.out = 20)))
     
     <item>
       <title>Fleiri skýribreytur</title>
-      <link>/courses/linearmodels/1_normaldreifd_utkoma/normal_likon_fjolvid/</link>
+      <link>/tolfraedi_fyrir_almenning/linearmodels/1_normaldreifd_utkoma/normal_likon_fjolvid/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/linearmodels/1_normaldreifd_utkoma/normal_likon_fjolvid/</guid>
+      <guid>/tolfraedi_fyrir_almenning/linearmodels/1_normaldreifd_utkoma/normal_likon_fjolvid/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(broom)
 m &amp;lt;- lm(mpg ~ wt + hp, data = mtcars)
 tidy(m)
@@ -214,9 +214,9 @@ emmeans(m, ~ wt + hp,
     
     <item>
       <title>Strjálar</title>
-      <link>/courses/data/stakar_breytur/strjalar_breytur/</link>
+      <link>/tolfraedi_fyrir_almenning/data/stakar_breytur/strjalar_breytur/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/data/stakar_breytur/strjalar_breytur/</guid>
+      <guid>/tolfraedi_fyrir_almenning/data/stakar_breytur/strjalar_breytur/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -275,9 +275,9 @@ ggplot(mtcars, aes(hp, mpg)) +
     
     <item>
       <title>Ein skýribreyta </title>
-      <link>/courses/linearmodels/2_tvikosta_utkoma/tvikosta_likon_einfold/</link>
+      <link>/tolfraedi_fyrir_almenning/linearmodels/2_tvikosta_utkoma/tvikosta_likon_einfold/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/linearmodels/2_tvikosta_utkoma/tvikosta_likon_einfold/</guid>
+      <guid>/tolfraedi_fyrir_almenning/linearmodels/2_tvikosta_utkoma/tvikosta_likon_einfold/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(tidyverse)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## ── Attaching packages ────────────────────────────────────────────────── tidyverse 1.3.0 ──
@@ -316,9 +316,9 @@ emmeans(m, ~ wt, at = list(wt = c(1, 3)), type = &amp;quot;response&amp;quot;)
     
     <item>
       <title>Ein skýribreyta  </title>
-      <link>/courses/linearmodels/3_talning_utkoma/talning_likon_einfold/</link>
+      <link>/tolfraedi_fyrir_almenning/linearmodels/3_talning_utkoma/talning_likon_einfold/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/linearmodels/3_talning_utkoma/talning_likon_einfold/</guid>
+      <guid>/tolfraedi_fyrir_almenning/linearmodels/3_talning_utkoma/talning_likon_einfold/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(broom)
 library(faraway)
 m &amp;lt;- glm(Species ~ Elevation, data = gala, family = poisson)
@@ -345,9 +345,9 @@ emmeans(m, ~ Elevation, at = list(Elevation = c(90, 300)), type = &amp;quot;resp
     
     <item>
       <title>Fleiri skýribreytur </title>
-      <link>/courses/linearmodels/2_tvikosta_utkoma/tvikosta_likon_fjolvid/</link>
+      <link>/tolfraedi_fyrir_almenning/linearmodels/2_tvikosta_utkoma/tvikosta_likon_fjolvid/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/linearmodels/2_tvikosta_utkoma/tvikosta_likon_fjolvid/</guid>
+      <guid>/tolfraedi_fyrir_almenning/linearmodels/2_tvikosta_utkoma/tvikosta_likon_fjolvid/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(broom)
 m &amp;lt;- glm(am ~ wt + hp, data = mtcars, family = binomial)
 tidy(m)
@@ -379,9 +379,9 @@ emmeans(m, ~ wt + hp,
     
     <item>
       <title>Fleiri skýribreytur  </title>
-      <link>/courses/linearmodels/3_talning_utkoma/talning_likon_fjolvid/</link>
+      <link>/tolfraedi_fyrir_almenning/linearmodels/3_talning_utkoma/talning_likon_fjolvid/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/linearmodels/3_talning_utkoma/talning_likon_fjolvid/</guid>
+      <guid>/tolfraedi_fyrir_almenning/linearmodels/3_talning_utkoma/talning_likon_fjolvid/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(broom)
 library(faraway)
 m &amp;lt;- glm(Species ~ Elevation + Area, data = gala, family = poisson)
@@ -412,9 +412,9 @@ emmeans(m, ~ Elevation + Area, at = list(Elevation = c(90, 300),
     
     <item>
       <title>Samfelld - Samfelld</title>
-      <link>/courses/data/fleiri_breytur/samfelld_samfelld/</link>
+      <link>/tolfraedi_fyrir_almenning/data/fleiri_breytur/samfelld_samfelld/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/data/fleiri_breytur/samfelld_samfelld/</guid>
+      <guid>/tolfraedi_fyrir_almenning/data/fleiri_breytur/samfelld_samfelld/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -433,9 +433,9 @@ emmeans(m, ~ Elevation + Area, at = list(Elevation = c(90, 300),
     
     <item>
       <title>Samfelld - Strjál</title>
-      <link>/courses/data/fleiri_breytur/samfelld_strjal/</link>
+      <link>/tolfraedi_fyrir_almenning/data/fleiri_breytur/samfelld_strjal/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/data/fleiri_breytur/samfelld_strjal/</guid>
+      <guid>/tolfraedi_fyrir_almenning/data/fleiri_breytur/samfelld_strjal/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -454,9 +454,9 @@ emmeans(m, ~ Elevation + Area, at = list(Elevation = c(90, 300),
     
     <item>
       <title>Strjál - Strjál</title>
-      <link>/courses/data/fleiri_breytur/strjal_strjal/</link>
+      <link>/tolfraedi_fyrir_almenning/data/fleiri_breytur/strjal_strjal/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/data/fleiri_breytur/strjal_strjal/</guid>
+      <guid>/tolfraedi_fyrir_almenning/data/fleiri_breytur/strjal_strjal/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;

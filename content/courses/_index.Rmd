@@ -6,6 +6,10 @@ view: 3
 
 ---
 
+# Klínísk Spálíkön (LÝÐ301F)
+
+Klínísk spálíkön eru kennd árlega á seinni hluta haustannar.
+
 # Lifunargreining (LÝÐ079F)
 
 Lifunargreining er kennd árlega á vorönn. 

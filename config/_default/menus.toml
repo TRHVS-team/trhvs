@@ -20,12 +20,12 @@
   
 [[main]]
   name = "Námskeið"
-  url = "teaching_material/"
+  url = "courses/"
   weight = 50
 
 [[main]]
   name = "Tölfræði fyrir almenning"
-  url = "courses/"
+  url = "tolfraedi_fyrir_almenning/"
   weight = 60
 
 [[main]]
