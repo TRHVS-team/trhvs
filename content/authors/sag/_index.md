@@ -3,7 +3,7 @@ authors:
 - ta
 bio: Blablúbla
 email: ""
-name: Sigurbjörg Anna Guðnadóttir
+name: Sigurbjörg Anna Kúkur
 interests:
     - Doktorsnemi í líftölfræði
 organizations:
